@@ -1,8 +1,8 @@
 ## Olá! Eu sou a João Victor
  <div>
   <a href="https://github.com/JVictor-CC">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JVictor-CC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVictor-CC&layout=compact&langs_count=9&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=JVictor-CC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVictor-CC&layout=compact&langs_count=9&theme=dracula"/>
 </div>
 
  ##
